@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cbec39ff34828594494ea60b15f38184
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaculo1: {instanceID: 0}
+  - obstaculo2: {instanceID: 0}
+  - obstaculo3: {instanceID: 0}
+  - obstaculo4: {instanceID: 0}
+  - obstaculo5: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
